@@ -4,7 +4,6 @@ def main():
 
 def count_words(s):
     # Big shock incoming: you could shorten this to len(s.split()) and get the same answer.
-    # Fuck's going on.
     word_array = s.replace("\n", " ").split(' ')
 
     return len(word_array) - word_array.count("")

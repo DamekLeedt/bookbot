@@ -1,3 +1,3 @@
-# maze_solver
+# bookbot
 
-maze_solver a guided project from boot.dev!
+BookBot is my first git project!
